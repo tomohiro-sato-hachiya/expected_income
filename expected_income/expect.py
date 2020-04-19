@@ -1,4 +1,3 @@
-import pandas
 import pickle
 
 def expect(size, year):
